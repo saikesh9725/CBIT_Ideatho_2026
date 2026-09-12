@@ -1,0 +1,11 @@
+SampleID,Batch,Condition,Center,Gene_0001,Gene_0002,Gene_0003,Gene_0004,Gene_0005
+S001,Batch_1,Control,Site_A,10.5,12.1,8.3,9.2,11.0
+S002,Batch_1,Control,Site_B,10.2,11.9,8.5,9.0,11.2
+S003,Batch_1,Treated,Site_A,15.1,12.0,5.1,9.3,14.5
+S004,Batch_2,Control,Site_B,12.5,14.1,10.3,11.2,13.0
+S005,Batch_2,Treated,Site_A,17.1,14.0,7.1,11.3,16.5
+S006,Batch_2,Treated,Site_B,17.3,14.2,7.3,11.1,
+S007,Batch_3,Control,Site_A,10.1,11.8,8.2,9.1,10.9
+S008,Batch_3,Treated,Site_B,14.8,11.9,5.0,9.0,14.2
+S009,Batch_3,Control,Site_A,10.4,12.0,8.4,9.4,11.1
+S010,Batch_3,Treated,Site_B,99.9,0.1,99.9,0.1,99.9
